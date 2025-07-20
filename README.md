@@ -19,7 +19,7 @@ ML Model Deployment with Streamlit
 
   How to Run Locally-: 
   Follow these steps to set up and run the application on your local machine:
-    1) Clone the Repository: If you're using Git, clone your   project repository
+    1) Clone the Repository
     2) Create a Virtual Environment: It's good practice to use a virtual environment to manage project dependencies.
     python -m venv venv
     3) Activate the Virtual Environment: 
